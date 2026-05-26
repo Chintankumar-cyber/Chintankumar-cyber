@@ -42,8 +42,6 @@ Passionate cybersecurity specialist and educator with a strong foundation in com
 
 ## 🏆 Certifications & Professional Memberships
 * **ISC²** (Certified in Cybersecurity Candidate) 
-* **Google Cybersecurity Professional**
-* **American Airlines AAdvantage Member** (Frequent Traveler for tech conferences)
 
 ---
 
@@ -57,7 +55,7 @@ Passionate cybersecurity specialist and educator with a strong foundation in com
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/chintan-dabhi-6b68571b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:chintandabhi84@gmail.com">
@@ -67,76 +65,3 @@ Passionate cybersecurity specialist and educator with a strong foundation in com
 
 ---
 ---
-
-## 🔍 Detailed Project Deconstructions
-
-### 🕵️ 1. Digital Forensics Lab & Artifact Investigation
-**Link to Source Code:** [View Repository](https://github.com/YOUR_USERNAME/forensics-lab-investigation)
-
-| Project Element | Description |
-| :--- | :--- |
-| **🎯 The Goal** | To conduct an end-to-end dead-box forensic analysis on a compromised disk image, reconstruct malicious user activity, and maintain a verifiable chain of custody. |
-| **🛠️ Tools Used** | `Autopsy` · `FTK Imager` · `Redline` · `WinFE` · `osTriage` · `ExifTool (Metadata Extraction)` |
-| **📊 The Output** | Successfully extracted hidden system artifacts, recovered deleted files, and generated an automated, legally compliant HTML forensic report detailing the absolute timeline of compromise. |
-
-#### 💡 What I Learned:
-* **Evidence Integrity:** Mastered the critical importance of hashing ($MD5$ and $SHA-256$) using **FTK Imager** to guarantee evidence wasn't altered during mounting and analysis.
-* **Artifact Analysis:** Learned how to parse Windows Registry keys, prefetch files, and LNK shortcuts within **Autopsy** to pinpoint exactly when a malicious executable was triggered.
-* **Professional Reporting:** Developed the ability to translate complex digital trails into a structured, executive-ready HTML forensic summary suitable for legal or corporate review.
-
-[▲ Back to Index](#-projects-index)
-
----
-
-### 💻 2. Offensive Security Simulation & Custom Automation
-**Link to Source Code:** [View Repository](https://github.com/YOUR_USERNAME/offensive-security-scripts)
-
-| Project Element | Description |
-| :--- | :--- |
-| **🎯 The Goal** | To build custom scripts that automate internal reconnaissance and simulate remote access vulnerabilities within an isolated testing environment. |
-| **🛠️ Tools Used** | `Python` · `PowerShell` · `Kali Linux` · `Metasploit Framework` · `Nmap` · `Windows Server VM` |
-| **📊 The Output** | A fully functional Python multi-client server architecture alongside an aggressive PowerShell automation module that successfully scans network assets and establishes a stable reverse shell connection. |
-
-#### 💡 What I Learned:
-* **Network Automation:** Scripted direct **Python Socket Programming** to understand how low-level TCP connection handshakes work between an adversarial listener and a target machine.
-* **Living off the Land:** Gained hands-on experience using native **PowerShell scripting** to bypass basic Windows monitoring controls, teaching me exactly how real-world attackers abuse built-in administrative tools.
-* **Lab Isolation & Control:** Hardened my virtual lab environment setup, ensuring aggressive automation scripts remained strictly bounded between the Kali Linux attacker framework and target Windows servers.
-
-[▲ Back to Index](#-projects-index)
-
----
-
-### 🏢 3. Threat Monitoring Architecture Design (Cyberintel Corp)
-**Link to Blueprints:** [View Repository](https://github.com/YOUR_USERNAME/cyberintel-threat-monitoring)
-
-| Project Element | Description |
-| :--- | :--- |
-| **🎯 The Goal** | To design and deploy a baseline defensive threat-intelligence tracking system optimized for modern startup network footprints. |
-| **🛠️ Tools Used** | `Log Parsers` · `Linux Logging Tools` · `Security Configuration Frameworks` · `Threat Intelligence Feeds` |
-| **📊 The Output** | A centralized system configuration map capturing live system telemetry, highlighting anomalous events, and generating targeted alerts against known indicators of compromise (IoCs). |
-
-#### 💡 What I Learned:
-* **Log Correlation:** Learned how to differentiate between high-volume normal system noise and genuine behavioral anomalies across live platform streams.
-* **Infrastructure Baseline:** Discovered how hard it is to maintain security configurations at a startup speed and learned how to establish realistic, low-friction monitoring rules.
-
-[▲ Back to Index](#-projects-index)
-
----
-
-### 📝 4. Enterprise IT Disaster Recovery (DR) Plan
-**Link to Documentation:** [View Repository](https://github.com/YOUR_USERNAME/retail-dr-plan)
-
-| Project Element | Description |
-| :--- | :--- |
-| **🎯 The Goal** | To draft a bulletproof business continuity and technical disaster recovery strategy for a high-volume retail network environment (modeled after Macy's infrastructure). |
-| **🛠️ Tools Used** | `GRC Assessment Frameworks` · `Risk Matrix Models` · `Data Replication Standards` |
-| **📊 The Output** | A complete, formal organizational directive featuring role-based runbooks, step-by-step communication trees, and defined data recovery target metrics. |
-
-#### 💡 What I Learned:
-* **GRC Strategy:** Realized that security isn't just technical; it's operational. I learned how to properly define **Recovery Time Objectives (RTO)** and **Recovery Point Objectives (RPO)** based on direct business impacts.
-* **Crisis Coordination:** Learned how to design cross-department action workflows so infrastructure, security, and administrative teams can execute smoothly in a high-stress failover event.
-
-[▲ Back to Index](#-projects-index)
-
----
-🚀 *“Securing networks by understanding the adversary, educating the next generation, and protecting critical infrastructure.”*

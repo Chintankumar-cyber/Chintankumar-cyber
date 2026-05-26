@@ -45,14 +45,6 @@ Passionate cybersecurity specialist and educator with a strong foundation in com
 
 ---
 
-## 📊 GitHub Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
----
-
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/chintan-dabhi-6b68571b5/" target="_blank">
